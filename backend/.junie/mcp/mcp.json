@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "C:\\php64\\php.exe",
+            "args": [
+                "C:\\Users\\khash\\Laravel\\Course_Enrollment_System\\artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
